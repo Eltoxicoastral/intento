@@ -1,6 +1,6 @@
 let nombre,n1,n2,n3,total;
 
-
+let a = 3
 
 
 
